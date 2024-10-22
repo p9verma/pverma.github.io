@@ -2,7 +2,6 @@
 layout: home
 title: "Home"
 ---
-# Punita Verma
 #### Technical Skills: Python, TensorFlow, PyTorch, Pandas, Numpy, Transformers, Data Science, LLMS, AWS, ETL, jupyter, numpy, C++, Matlab, Docker, Kubernetes, Java, C++, CI/CD, cloud formation, terraform, Agile/scrum, jira, SQL, github
 
 ## Education
