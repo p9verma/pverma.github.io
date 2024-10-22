@@ -7,7 +7,7 @@ title: "Home"
 
 ## Education
 - M.S., Artificial Intelligence	| Johns Hopkins University (_Graduating May 2025_)	 			        		
-- B.S., Physics | Virginia Tech (_May 2021_)
+- B.S., Computer Science | Virginia Tech (_May 2021_)
 
 ## Work Experience
 **Senior Data Scientist @ General Dynamics Information Technology (_December 2023 - Present_)**
